@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+3/22/2018
 
 ### Student Name:  
-(First and Last Name)
+Nicholas D'Angelo
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment had us create a picutre carousel. 
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned how to make a carousel of pictures revolve using an array and loop.
+2. We learned to use methods like createEventListener() and createElement()
+3. How the DOM tree works and the methods that change or update it.
