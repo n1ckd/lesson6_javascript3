@@ -13,8 +13,7 @@ Nicholas D'Angelo
 This assignment had us create a picutre carousel. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://n1ckd.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. We learned how to make a carousel of pictures revolve using an array and loop.
